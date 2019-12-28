@@ -4,3 +4,4 @@
  Presence of Diabetes is valued to 1 while being normal represents the binary value 0. 
  
 The models are built using Gaussian Naive Bayes Classifier and the next model is built using AutoML technique called TPOT that predicted XGBoost to give the best accuracy.
+'Diabetes_Prediction.py' is an AutoML generated file with an accuracy slightly higher than conventional model. Yet, a lot of time could be saved in choosing the right algorithm.
